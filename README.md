@@ -24,3 +24,4 @@ This project analyzes air pollution data across Indian States and Union Territor
 - SQL scripts used for analysis
 - Excel Dashboard
 - Raw Dataset
+- Dashboard Image
